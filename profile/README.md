@@ -1,24 +1,39 @@
-<h1 align="center">Hi 👋, This is FOSSmin aka [Nelmin](https://github.com/NelminDev)!</h1>
-<h3 align="center">A Organization to host all of Nelmin's FOSS Projects</h3>
+<h1 align="center">Hey there! 👋</h1>
 
-- 🔭 I’m currently working on [Software-List](https://github.com/FOSSmin/Software-List)
+### What is FOSSmin?:
+FOSSmin is a GitHub Organization, created by me, NelminDev. FOSSmin is where I am going to upload every FOSS app, service, software, etc. that I code.
 
-- 🌱 I’m currently learning **SolidStart**
+The name FOSSmin is a combination of *__FOSS (Free & Open Source Software)__* and *__Nelmin__*
 
-- 👯 I’m looking to collaborate on [Software-List](https://github.com/FOSSmin/Software-List)
+### Connect with me:
+[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/504014438383222804/) 
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:nelmindev@proton.me)
 
-- 👨‍💻 All of my projects are available at [https://github.com/NelminDev](https://github.com/NelminDev)
+### What I use:
+<!-- [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/)
+[![Gradle](https://skillicons.dev/icons?i=gradle)](https://gradle.org/)
+  
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)-->
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![Bun](https://skillicons.dev/icons?i=bun)](https://bun.sh/)
 
-- 💬 Ask me about **TypeScript, Kotlin**
+### Tools:
+[![SolidJS](https://skillicons.dev/icons?i=solidjs)](https://www.solidjs.com/)
+<!--[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+  
+[![Nuxt](https://skillicons.dev/icons?i=nuxt)](https://nuxt.com/)
+[![Next.js](https://skillicons.dev/icons?i=next)](https://nextjs.org/)
 
-- 📫 How to reach me **fossmin.eclair811@passmail.net**
+[![Tauri](https://skillicons.dev/icons?i=tauri)](https://tauri.app/)
+[![Ktor](https://skillicons.dev/icons?i=ktor)](https://ktor.io/)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)-->
 
-- ⚡ Fun fact **I am just a teenager**
+### IDEs:
+[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea&theme=dark)](https://www.jetbrains.com/idea/)
+[![WebStorm](https://skillicons.dev/icons?i=webstorm&theme=dark)](https://www.jetbrains.com/webstorm/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/aaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aaaaaa" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<!--### SQL:
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://www.postgresql.org/)
+[![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://www.mysql.com/de/)-->
